@@ -5,6 +5,7 @@ You can find binary downloads in the release tab or from here: https://github.co
 when build or downloaded, you can drag and drop a folder with all the NDS files in `NDS Cover downloader.exe`
 when no folder was passed as argument, you can open the executable and follow the onscreen instructions.
 
+All the covers will be downloaded to the `covers` folder where the executable is been run from.
 
 every homebrew application gets skipped.
 
