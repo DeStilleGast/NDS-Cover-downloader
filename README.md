@@ -4,3 +4,5 @@ when no folder was passed as argument, you can open the executable and follow th
 
 
 every homebrew application gets skipped.
+
+![](https://raw.githubusercontent.com/DeStilleGast/NDS-Cover-downloader/master/img/Screenshot1.png)
